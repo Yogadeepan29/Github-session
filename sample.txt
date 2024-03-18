@@ -1,1 +1,1 @@
-this is the document for test git and github connection using MS code.
+this is the document for test git and github connection using VS code.
