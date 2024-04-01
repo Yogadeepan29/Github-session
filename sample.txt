@@ -1,3 +1,5 @@
 this is the document for test git and github connection using VS code. 
 
 overall new pc builed just now configured 
+
+practice 2nd method
